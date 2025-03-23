@@ -1,8 +1,8 @@
 app:
-  name: APP_NAME
+  name: formation-meow
   image: killiankopp/meow:1.0
   replicas: 1
   port: 3000
-  url: URL
-  namespace: NAMESPACE
-  secret: SECRET_NAME
+  url: meow.formation.koden.bzh
+  namespace: koden
+  secret: koden-formation-mongodb-secret
