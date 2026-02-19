@@ -5,4 +5,4 @@ app:
   port: 3000
   url: meow.formation.koden.bzh
   namespace: koden
-  secret: koden-formation-mongodb-secret
+  secret: formation-mongodb-secret
