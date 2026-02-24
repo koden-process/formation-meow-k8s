@@ -5,7 +5,7 @@ app:
   port: 3000
   url: meow.formation.koden.bzh
   namespace: koden
-  secret: formation-mongodb-secret
+  secret: unikalo-mongodb-secret
   theme_favicon_url: https://storage.googleapis.com/koden-public/unikalo/logo_preskription_256.png
   theme_logo_url: https://storage.googleapis.com/koden-public/unikalo/logo-vertical.png
   theme_logo_alt_text: Unikalo
